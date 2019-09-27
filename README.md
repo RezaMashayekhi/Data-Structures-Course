@@ -24,9 +24,11 @@ $ ./<executable-file>
 ## Code Contributors
 
 * [Erfan Mehraban](http://erfanmehraban.ir)
+* [Reza Mashayekhi](https://github.com/RezaMashayekhi)
 * [Kamyab Zare](https://github.com/kamyab98)
 * [Ghazale Kharadpour](https://github.com/gazelle98)
 * [Arya Hadi](http://aryaha.com)
+
 
 
 ## License
