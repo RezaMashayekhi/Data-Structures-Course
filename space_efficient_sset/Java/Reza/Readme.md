@@ -1,4 +1,4 @@
-Implemented A Space Efficient Skiplist Data Structure.
+Implemented A Space Efficient Skiplist Data Structure by combining SEList and SSet.
 
 Here is an image of a SkiplistSSet. The image is taken from [open data structures book](https://opendatastructures.org/).
 
